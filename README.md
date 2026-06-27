@@ -88,4 +88,4 @@ excited.
   emitted at, building a spectrum over time.
 
 ## License
- (MIT LICENCE)[LICENCE]
+This project is licensed under the [MIT LICENCE](LICENCE)
