@@ -88,5 +88,4 @@ excited.
   emitted at, building a spectrum over time.
 
 ## License
-
-Add your preferred license here (e.g. MIT) — see [choosealicense.com](https://choosealicense.com/) if unsure.
+ (MIT LICENCE)[LICENCE]
